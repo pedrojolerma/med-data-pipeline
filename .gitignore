@@ -1,0 +1,14 @@
+# Python bits
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data and DB (Don't upload 1GB of raw data to GitHub!)
+data/
+postgres_data/
+*.csv
+*.json
+
+# System files
+.DS_Store
