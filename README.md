@@ -12,27 +12,27 @@ This project demonstrates a containerized ETL (Extract, Transform, Load) pipelin
 
 ## Tech Stack
 
-\* \*\*Language:\*\* Python 3.x
+* **Language:** Python 3.x
 
-\* \*\*Database:\*\* PostgreSQL 15 (Containerized via Docker)
+* **Database:** PostgreSQL 15 (Containerized via Docker)
 
-\* \*\*Orchestration:\*\* Docker Compose
+\* **Orchestration:** Docker Compose
 
-\* \*\*Libraries:\*\* Pandas, SQLAlchemy, python-dotenv
+\* **Libraries:** Pandas, SQLAlchemy, python-dotenv
 
-\* \*\*Version Control:\*\* Git
+\* **Version Control:** Git
 
 
 
 ## Architecture
 
-1\. \*\*Infrastructure:\*\* PostgreSQL running in a Docker container for environment isolation.
+1\. **Infrastructure:** PostgreSQL running in a Docker container for environment isolation.
 
-2\. \*\*Security:\*\* Sensitive credentials managed via `.env` (excluded from Git).
+2\. **Security:** Sensitive credentials managed via `.env` (excluded from Git).
 
-3\. \*\*Ingestion:\*\* Python/Pandas script to validate and load clinical metadata.
+3\. **Ingestion:** Python/Pandas script to validate and load clinical metadata.
 
-4\. \*\*Schema:\*\* Relational design optimized for medical modality queries.
+4\. **Schema:** Relational design optimized for medical modality queries.
 
 
 
