@@ -4,13 +4,13 @@
 
 
 
-\## 🏥 Project Overview
+\## Project Overview
 
 This project demonstrates a containerized ETL (Extract, Transform, Load) pipeline designed to manage medical imaging metadata (MRI, CT, X-RAY). It automates the ingestion of clinical records from raw CSV formats into a structured PostgreSQL Data Warehouse.
 
 
 
-\## 🛠️ Tech Stack
+\## Tech Stack
 
 \* \*\*Language:\*\* Python 3.x
 
@@ -24,7 +24,7 @@ This project demonstrates a containerized ETL (Extract, Transform, Load) pipelin
 
 
 
-\## 🏗️ Architecture
+\## Architecture
 
 1\. \*\*Infrastructure:\*\* PostgreSQL running in a Docker container for environment isolation.
 
@@ -36,7 +36,7 @@ This project demonstrates a containerized ETL (Extract, Transform, Load) pipelin
 
 
 
-\## 🚀 How to Run
+\## How to Run
 
 1\. Ensure Docker Desktop is running.
 
