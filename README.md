@@ -16,11 +16,11 @@ This project demonstrates a containerized ETL (Extract, Transform, Load) pipelin
 
 * **Database:** PostgreSQL 15 (Containerized via Docker)
 
-\* **Orchestration:** Docker Compose
+* **Orchestration:** Docker Compose
 
-\* **Libraries:** Pandas, SQLAlchemy, python-dotenv
+* **Libraries:** Pandas, SQLAlchemy, python-dotenv
 
-\* **Version Control:** Git
+* **Version Control:** Git
 
 
 
